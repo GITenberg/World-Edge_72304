@@ -1,0 +1,36 @@
+_repo: World-Edge_72304
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Finlay, Virgil
+    alias: Finlay
+    birthdate: 1914
+    deathdate: 1971
+    gutenberg_agent_id: '26786'
+    url: http://www.gutenberg.org/2009/agents/26786
+    wikipedia: https://en.wikipedia.org/wiki/Virgil_Finlay
+creator:
+  author:
+    agent_name: Egan, Jack
+    alias: Egan, John William
+    birthdate: 1945
+    gutenberg_agent_id: '32222'
+    url: http://www.gutenberg.org/2009/agents/32222
+description: ''
+gutenberg_issued: '2023-12-03'
+identifiers:
+  gutenberg: '72304'
+language: en
+pgterms:marc905: 20231118135630egan
+pgterms:marc906: '1962'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bZiff-Davis Publishing Company, $c1962.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: World Edge
+url: http://www.gutenberg.org/ebooks/72304
