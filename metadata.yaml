@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '26786'
     url: http://www.gutenberg.org/2009/agents/26786
     wikipedia: https://en.wikipedia.org/wiki/Virgil_Finlay
+covers:
+- cover_type: archival
+  image_path: 72304-h/images/cover.jpg
 creator:
   author:
     agent_name: Egan, Jack
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '32222'
     url: http://www.gutenberg.org/2009/agents/32222
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72304#World-Edge
 gutenberg_issued: '2023-12-03'
 identifiers:
   gutenberg: '72304'
